@@ -1,5 +1,5 @@
 # Web Application with Flask : Project Overview
-* Created a web application to ectract mail id & phone number from the provided text using python & flask framework
+* Created a web application to extract mail id & phone number from the provided text using python & flask framework
 * Insights on regex
 
 ## Resources:
